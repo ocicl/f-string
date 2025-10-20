@@ -4,6 +4,6 @@ A tiny string interpolation library for Common Lisp, inspired by Python's f-stri
 
 |---------+-----------------------------------------|
 | source  | git:https://git.sr.ht/~dieggsy/f-string |
-| commit  | adbb1d5                                 |
+| commit  | 0642a7a                                 |
 | systems | com.dieggsy.f-string                    |
 |---------+-----------------------------------------|
