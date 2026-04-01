@@ -7,3 +7,4 @@ A tiny string interpolation library for Common Lisp, inspired by Python's f-stri
 | commit  | 0642a7a                                 |
 | systems | com.dieggsy.f-string                    |
 |---------+-----------------------------------------|
+ 
